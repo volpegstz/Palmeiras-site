@@ -1,0 +1,107 @@
+body{
+   background-color: #121212;
+}
+#cards{
+    
+    
+}
+.logo {
+    height: auto;
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 4200000000000000000000%;
+    left:
+}
+
+.foto{
+    height: 250px;
+    width: 95%;
+    margin: 0 auto;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.card{
+    background-image: url("fundo.png");
+    width: 300px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Clash Display ExtraLight', sans-serif;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    display: inline-block;
+    margin: 5px;
+    border-radius: 20px
+    
+}
+
+.sobre-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 110%;
+    text-align: center;
+    font-family: 'Clash Display', sans-serif;
+    color: aliceblue;
+    padding: 20px 0;
+  }
+
+.card .nome{
+    font-weight: bold;
+    color: aliceblue;
+    font-size: 100%;
+}
+.rec{
+    font-weight: bold;
+    color: aliceblue;
+    font-size: 150%;
+}
+.titulo{
+    position: absolute;
+    top: -25%;
+    right: 20%;
+    margin: 20%;
+    font-size: 200%;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Clash Display', sans-serif;
+    color: aliceblue;
+}
+.tito{
+    top: -25%;
+    right: 20%;
+    margin: 20%;
+    font-size: 200%;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Clash Display', sans-serif;
+    color: aliceblue;
+}
+
+
+.berrys{
+    height: auto;
+    width: 10%;
+    margin: 0%;
+}
+.procurado{
+    text-align: center;
+    font-family: 'Clash Display', sans-serif;
+    color: aliceblue;
+    font-size: 200%;
+    margin: 0%;
+}
+p{
+    margin: 0%;
+}
+a {
+    text-decoration: none;
+    text-decoration-color: rgb(255, 255, 255);
+}

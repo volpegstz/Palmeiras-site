@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recompensas>
+    <pirata>
+        <id>	1	</id>
+        <nome>		</nome>
+        <recompensa>	Gustavo Gomez	</recompensa>
+        <alcunha>		</alcunha>
+        <sobre>  ° Poupado na fase de grupos em prol da Libertadores, o paraguaio fez apenas 5 partidas pelo Verdão na competição. 
+        Entretanto, como sempre, foi regular, seguro e lutou até o final. Foi o único jogador do elenco a jogar realmente bem nas 
+        partidas da final. Além disso, foi buscar o troféu do vice-campeonato com a cabeça erguida, com a postura digna do capitão que é!
+
+  </sobre>
+        <status>		</status>
+    </pirata>
+    <pirata>
+        <id>	2	</id>
+        <nome>		</nome>
+        <recompensa>	Gustavo Scarpa	</recompensa>
+        <alcunha>		</alcunha>
+        <sobre>	° No Palmeiras desde 2018, com altos e baixos, Scarpa não era considerado um dos potenciais protagonistas da equipe 
+        em qualquer competição. Entretanto, o meia fez um Campeonato espetacular!
+
+	 </sobre>
+    </pirata>
+    <pirata>
+        <id>	3	</id>
+        <nome>		</nome>
+        <recompensa>	Jailson	</recompensa>
+        <alcunha>		</alcunha>
+        <sobre>	° Aos 39 anos, muitos torcedores nem queriam a renovação de contrato com o ídolo, até pelos bons jogos de 
+        Vinicius Silvestre. Entretanto, o goleiro mostrou porque é um importante reserva para Weverton ao fazer ótimas atuações 
+        durante a ausência do titular.
+
+	</sobre>
+    </pirata>
+    <pirata>
+        <id>	4	</id>
+        <nome>		</nome>
+        <recompensa>	Lucas Lima	</recompensa>
+        <alcunha>		</alcunha>
+        <sobre>	° Muitos torcedores já nem devem lembrar, mas o Lucas Lima iniciou a temporada 2021 “voando”! 
+        O meia marcou o gol da vitória contra o Corinthians na fase de grupos e fez 5 bons jogos consecutivos, dando até esperança 
+        a alguns torcedores dele dar a volta por cima.
+
+	</sobre>
+    </pirata>
+    <pirata>
+        <id>	5	</id>
+        <nome>		</nome>
+        <recompensa>	Patrick de Paula	</recompensa>
+        <alcunha>		</alcunha>
+        <sobre>	° Patrick estreou pelo profissional no Paulista de 2020, como a grande sensação entre as crias da base. 
+        Entretanto, foi “superado” por Menino e Danilo ao longo da temporada, que cresceram enquanto o “PK” teve oscilações técnicas.
+	</sobre>
+    </pirata>
+</recompensas>																														
